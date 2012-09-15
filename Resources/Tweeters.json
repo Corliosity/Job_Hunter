@@ -1,0 +1,158 @@
+[
+	{
+		"title":"Rich Dematteo",
+		"hasChild":true,
+		"def": "CornOnTheJob",
+		"backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+	},
+    {
+        "title": "Tim Tyrell-Smith",
+        "hasChild":true,
+        "def": "TimsStrategy",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+        "title": "Job Hunt.Org",
+        "hasChild":true,
+        "def": "JobHuntOrg",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Undercover Recruiter",
+        "hasChild":true,
+        "def": "UndercoverRec",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Job Hunt Chat",
+        "hasChild":true,
+        "def": "JobHuntChat",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Lindsey Pollak",
+        "hasChild":true,
+        "def": "LindseyPollak",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Jacob Share",
+		"hasChild":true,
+        "def": "JacobShare",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Blogging 4 Jobs",
+        "hasChild":true,
+        "def": "Blogging4Jobs",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Joshua Waldman",
+        "hasChild":true,
+        "def": "JoshuaWaldman",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Miriam Salpeter",
+		"hasChild":true,
+        "def": "Keppie_Careers",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Dan Schawbel",
+		"hasChild":true,
+        "def": "DanSchawbel",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Heather Huhman",
+		"hasChild":true,
+        "def": "HeatherHuhman",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Levy Recruits",
+		"hasChild":true,
+        "def": "levyRecruits",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Maggie Mistal",
+		"hasChild":true,
+        "def": "MaggieMistal",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Hannah Morgan",
+		"hasChild":true,
+        "def": "CareerSherpa",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Margo Rose",
+		"hasChild":true,
+        "def": "HRMargo",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Emily Bennington",
+		"hasChild":true,
+        "def": "EmilyBennington",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "YouTern Mark",
+		"hasChild":true,
+        "def": "YouTernMark",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Brazzen Careerist",
+		"hasChild":true,
+        "def": "BrazzenCareerist",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Ask a Manager",
+		"hasChild":true,
+        "def": "AskAManager",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Alison Doyle",
+		"hasChild":true,
+        "def": "AlisonDoyle",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Abby Kohut",
+		"hasChild":true,
+        "def": "Absolutely_Abby",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Phyllis Mufson",
+		"hasChild":true,
+        "def": "PhyllisMufson",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Kirk Baumann",
+		"hasChild":true,
+        "def": "KBaumann",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Bob Warren",
+		"hasChild":true,
+        "def": "BobWarren",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    },
+    {
+    	"title": "Steven Rothberg",
+		"hasChild":true,
+        "def": "StevenRothberg",
+        "backgroundColor": "transparent", "backgroundImage": "images/tablerow2.png", "height": 52
+    }
+]

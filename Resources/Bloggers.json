@@ -1,0 +1,44 @@
+[
+	{
+	"title": "Corn on the Job",
+	"hasChild": true,
+	"blogUrl": "http://feeds.feedburner.com/CornOnTheJob",
+	"backgroundColor": "transparent", "backgroundImage": "images/tablerow.png", "height": 75
+	},
+	
+	{
+	"title": "Campus to Career",
+	"hasChild": true,
+	"blogUrl": "http://feeds.feedburner.com/campus-to-career/Pqgh",
+	"backgroundColor": "transparent", "backgroundImage": "images/tablerow.png", "height": 75
+	},
+	
+	{
+	"title": "Monster Thinking",
+	"hasChild": true,
+	"blogUrl": "feed://feeds.feedburner.com/MonsterThinking",
+	"backgroundColor": "transparent", "backgroundImage": "images/tablerow.png", "height": 75
+	},
+	
+	{
+	"title": "The Jobs Guy",
+	"hasChild": true,
+	"blogUrl": "feed://thejobsguy.wordpress.com/feed/",
+	"backgroundColor": "transparent", "backgroundImage": "images/tablerow.png", "height": 75
+	},
+	
+	{
+	"title": "tHRyving",
+	"hasChild": true,
+	"blogUrl": "http://feeds.feedburner.com/tHRyving",
+	"backgroundColor": "transparent", "backgroundImage": "images/tablerow.png", "height": 75
+	},
+	
+	{
+	"title": "Fist Full of Talent",
+	"hasChild": true,
+	"blogUrl": "http://feeds.feedburner.com/fistfuloftalent",
+	"backgroundColor": "transparent", "backgroundImage": "images/tablerow.png", "height": 75
+	}
+	
+]

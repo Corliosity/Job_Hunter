@@ -1,0 +1,8 @@
+[
+	{"title": 'Job Tips', "hasChild": true, "url":'/ui/job_resources/JobTips', "backgroundColor": 'transparent', "backgroundImage": 'images/tablerow2.png', "height": 52},
+	{"title": 'Job Resources', "hasChild": true, "url":'/ui/job_resources/JobTips',"backgroundColor": 'transparent', "backgroundImage": 'images/tablerow2.png', "height": 52},
+	{"title": 'Corn on The Job', "hasChild": true, "url":'/ui/job_resources/JobTips', "backgroundColor": 'transparent', "backgroundImage": 'images/tablerow2.png', "height": 52},
+	{"title": 'Corn Head Blog', "hasChild": true, "url":'/ui/job_resources/JobTips', "backgroundColor": 'transparent', "backgroundImage": 'images/tablerow2.png', "height": 52},
+	{"title": 'Other Job Blogs', "hasChild": true, "url":'/ui/job_resources/JobTips', "backgroundColor": 'transparent', "backgroundImage": 'images/tablerow2.png', "height": 52},
+	{"title": 'Get a Job Now', "hasChild": true, "url":'/ui/job_resources/JobTips', "backgroundColor": 'transparent', "backgroundImage": 'images/tablerow2.png', "height": 52}
+];
